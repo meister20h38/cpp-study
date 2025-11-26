@@ -1,8 +1,8 @@
 /*
- * @file SkeltonEx13.cpp
+ * @ex13.cc
  * @brief Skelton of Ex-13 ofin PL04: Programming C++
  * @author Keitaro Naruse
- * @author Kosei Fujita
+ * @author meister20h38
  * @date 2022-11-17
  * @date 2025-11-26
  * @copyright MIT License
