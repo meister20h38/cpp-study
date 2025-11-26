@@ -1,6 +1,7 @@
 /*
  * @ex13.cc
  * @brief Skelton of Ex-13 ofin PL04: Programming C++
+ * @details SkeletonEx13.cppに必要な部分を追加し、正しく動作するように修正
  * @author Keitaro Naruse
  * @author meister20h38
  * @date 2022-11-17
