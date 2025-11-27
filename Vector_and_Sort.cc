@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 #include <vector>
-#include <algorith>
+#include <algorithm>
 
 using namespace std;
 
@@ -11,9 +11,9 @@ int main (){
   string s;
   while(cin >> s) S.push_back(s);
 
-  S.sort(S.begin(), S.end(), [](const string& l, const string& r {return l > r; });
+  sort(S.begin(), S.end(), [](const string& l, const string& r) { return l > r; });
 
-  for (const auto& e : S) cout << *e << endl;
+  for (auto it = S.begin(); it != S.end(); it++) cout << *it << endl;
   
   return 0;
 }
